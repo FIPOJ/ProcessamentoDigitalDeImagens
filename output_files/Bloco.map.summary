@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Fri Oct 28 23:58:45 2022
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : Bloco
+Top-level Entity Name : MAC
+Family : MAX 10
+Total logic elements : 148
+    Total combinational functions : 145
+    Dedicated logic registers : 69
+Total registers : 69
+Total pins : 134
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 8
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

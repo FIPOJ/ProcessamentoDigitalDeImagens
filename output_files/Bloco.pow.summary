@@ -1,0 +1,12 @@
+Power Analyzer Status : Successful - Thu Oct 27 09:16:21 2022
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : Bloco
+Top-level Entity Name : MAC
+Family : MAX 10
+Device : 10M08DAF484C8G
+Power Models : Final
+Total Thermal Power Dissipation : 45.95 mW
+Core Dynamic Thermal Power Dissipation : 0.00 mW
+Core Static Thermal Power Dissipation : 39.76 mW
+I/O Thermal Power Dissipation : 6.19 mW
+Power Estimation Confidence : Low: user provided insufficient toggle rate data
